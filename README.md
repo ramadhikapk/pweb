@@ -10,7 +10,7 @@ files included:
   
 all files are connected with hyperlinks each file located at the top of the pages.
 
-"cat stuff" pages, there is a list of popular types of cat, each one has photo of them, and they are connected to wikipedia if you click on the photo of each cat.
+"cat stuff" page, there is a list of popular types of cat, each one has photo of them, and they are connected to wikipedia if you click on the photo of each cat.
 
 if i am not mistaken, it should cover all the requirements of this project.
 

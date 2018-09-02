@@ -1,0 +1,18 @@
+body{
+    	background-image: url("grey.png");
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}
+
+.hyperlink{
+	color: white;
+	text-align: left;
+}
+
+img{
+	border-radius: 25px;
+}
